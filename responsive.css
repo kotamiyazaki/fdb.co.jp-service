@@ -1,0 +1,68 @@
+@media (max-width: 1000px){
+
+* {
+  box-sizing: border-box;
+}
+
+
+.container {
+width: 100%;
+}
+
+}
+
+@media (max-width: 670px){
+
+/* ヘッダー */
+.header {
+  width: 100%;
+  height: 80px;
+  margin: 0 auto 10px;
+}
+
+.menu-icon {
+  display: block;
+}
+
+
+.contactinfo {
+  display: none;
+}
+
+/* 内容部 */
+
+.container {
+  padding-left: 15px;
+}
+
+.jyusetsubtn {
+  width: 100%;
+}
+
+.servicemenu-item {
+  font-size: 1.125em;
+}
+
+/* メニュー */
+.menu {
+  display: none;
+}
+
+/* フッター*/
+
+.footer {
+  height: 44px;
+  text-align: center;
+}
+
+.copyright {
+  float: none;
+}
+
+.securityinfo {
+  float: none;
+}
+
+
+
+}
